@@ -1,0 +1,10 @@
+Clump Thickness,Uniformity of Cell Size,Uniformity of Cell Shape,Marginal Adhesion,Single Epithelial Cell Size,Bare Nuclei,Bland Chromatin,Normal Nucleoli,Mitoses,Class
+8,4,5,1,2,5,7,3,1,benign
+7,6,7,9,5,10,7,8,4,malignant
+4,2,3,1,3,2,4,2,1,benign
+9,8,8,6,6,10,7,10,3,malignant
+3,1,1,1,2,1,2,1,1,benign
+5,2,3,1,3,2,4,2,1,benign
+4,2,3,1,3,2,4,3,1,benign
+5,2,3,2,2,2,4,2,1,benign
+7,8,8,6,6,10,7,6,3,malignant
